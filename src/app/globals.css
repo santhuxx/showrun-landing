@@ -49,7 +49,7 @@ body {
 }
 
 .navbar-brand .navbar-logo {
-  max-height: 40px;
+  max-height: 20px;
   width: auto;
 }
 
@@ -218,10 +218,11 @@ body {
 }
 
 .section h2 {
-  font-size: 2.25rem;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  font-weight: 700;
   text-align: center;
   margin-bottom: 1.5rem;
-  font-weight: 700;
   color: rgb(1, 35, 58);
 }
 
@@ -239,7 +240,8 @@ body {
 }
 
 .section-subtitle {
-  font-size: 1.25rem;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.5rem;
   font-weight: 500;
   color: #4b5563;
 }

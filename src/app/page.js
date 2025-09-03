@@ -23,7 +23,7 @@ export default function Home() {
               alt="Showrun Logo"
               className="navbar-logo"
               width={120}
-              height={50}
+              height={30}
             />
           </Link>
         </div>
