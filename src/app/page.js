@@ -40,7 +40,7 @@ export default function Home() {
           <a href="#contact" className="nav-link">
             Contact
           </a>
-          <a href="#signup" className="nav-button">
+          <a href="#contact" className="nav-button">
             Sign Up
           </a>
         </div>
