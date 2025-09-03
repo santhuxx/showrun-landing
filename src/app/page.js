@@ -68,7 +68,7 @@ export default function Home() {
           </div>
           <div className="hero-image animate-slide-up">
           <Image
-              src="https://img.freepik.com/free-photo/man-filming-with-professional-camera_23-2149066348.jpg"
+              src="/hero.png"
               alt="Camera Operator"
               width={600}
               height={400}
