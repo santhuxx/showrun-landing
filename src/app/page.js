@@ -162,10 +162,10 @@ export default function Home() {
         </div>
       </section>
 
-      {/* Content Production Efficiency Section */}
+      {/* Efficiency Section */}
       <section className="section">
         <div className="card animate-fade-in">
-          <h2>Content Production Efficiency</h2>
+          <h2>Say Goodbye to Silos & Hello to Efficiency</h2>
           <p>
             Having data scattered between different applications is the source
             of unscripted production nightmares. With Showrun, you can sleep
@@ -186,8 +186,7 @@ export default function Home() {
       {/* Say Goodbye to Silos Section */}
       <section className="section section-alt">
         <div className="card animate-slide-up">
-          <h2>Say Goodbye to Silos & Hello to Efficiency</h2>
-          <h3>Stay in Touch and Up to Date</h3>
+          <h2>Stay in Touch and Up to Date</h2>
           <p>
             Two of the most significant headaches in any production are
             coordinating communication between different roles and functions and
